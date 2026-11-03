@@ -32,7 +32,15 @@ const products = [
   P(14,"Brown Suede Bomber Jacket","Jackets",3200,0,4.9,["brown"],TOP,["57161.jpg","57051.jpg"]),
   P(15,"Confident Graphic Tee","T-shirts",950,0,4.7,["cream"],TOP,"57091.jpg"),
   P(16,"Beige Plaid Hooded Shirt Jacket","Jackets",2600,0,4.7,["beige"],TOP,"51292.jpg"),
-  P(17,"Green Zip-Up Hoodie","Hoodies",2100,0,4.8,["green"],TOP,"51290.jpg")
+  P(17,"Green Zip-Up Hoodie","Hoodies",2100,0,4.8,["green"],TOP,"51290.jpg"),
+  P(18,"Printed Graphic Tee","T-shirts",900,0,4.6,["black"],TOP,"https://i.ibb.co/S71NPdp7/file-0000000049a48211867a9b0f78f046a1.png"),
+  P(19,"Casual Oversized Tee","T-shirts",950,0,4.6,["white"],TOP,"https://i.ibb.co/1Y3RtczZ/FB-IMG-1793167400164.jpg"),
+  P(20,"Classic Casual Shirt","Shirts",1300,0,4.6,["blue"],TOP,"https://i.ibb.co/TBcQWScY/20261017-191819.jpg"),
+  P(21,"Winter Zip Jacket","Jackets",2400,0,4.6,["black"],TOP,"https://i.ibb.co/39V0FN5G/20260823-181936.jpg"),
+  P(22,"Cozy Pullover Hoodie","Hoodies",2100,0,4.7,["grey"],TOP,"https://i.ibb.co/xZKF91z/ccdef698051a433c0869f89265973363-0.webp"),
+  P(23,"Everyday Basic Tee","T-shirts",800,0,4.5,["navy"],TOP,"https://i.ibb.co/0prLm7LB/20260804-190649.jpg"),
+  P(24,"Stylish Full Sleeve Shirt","Shirts",1400,0,4.6,["olive"],TOP,"https://i.ibb.co/j973xw6P/20260804-194401.jpg"),
+  P(25,"Warm Knit Sweater","Sweaters",1800,0,4.7,["brown"],TOP,"https://i.ibb.co/0jyGg207/20260722-182728.jpg")
 ];
 
 const cats = [
