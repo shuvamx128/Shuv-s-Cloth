@@ -1,4 +1,4 @@
-const WHATSAPP = "977XXXXXXXXXX"; // put your WhatsApp number here
+const WHATSAPP = "9779767258429"; // put your WhatsApp number here
 const SHOW_RATINGS = true;        // set to false to hide the star ratings
 
 const CL = {
